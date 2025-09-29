@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SoulTracker",
+  "description": "A gamified emotional wellness web application featuring the 'Soul' chatbot to help users track their emotions, build positive habits, and improve their well-being through engaging features like daily streaks, points, and a leaderboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
