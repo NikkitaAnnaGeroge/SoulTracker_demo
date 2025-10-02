@@ -45,15 +45,7 @@ SoulTracker is an innovative mobile/web application designed to empower users in
 
 ---
 
-## 📸 Screenshots
 
-![Mood Logging Interface](./assets/mood-logging.png)  
-*Figure 1: User interface for logging daily moods.*
-
-![Dashboard Interface](./assets/dashboard.png)  
-*Figure 2: Visualizations and insights dashboard.*
-
----
 
 ## 🎨 UI/UX
 
