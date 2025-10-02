@@ -1,6 +1,6 @@
 # 🌟 SoulTracker: Gamified Mental Health Journaling App
 
-![SoulTracker Banner](./assets/banner.png)  
+![SoulTracker Banner](1200x250.png)  
 *Your personal companion for emotional well-being.*
 
 SoulTracker is an innovative mobile/web application designed to empower users in their mental wellness journey. By combining emotional tracking with gamification, it encourages consistent self-reflection and provides personalized suggestions to enhance well-being.
