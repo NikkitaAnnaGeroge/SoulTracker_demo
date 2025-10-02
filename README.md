@@ -1,4 +1,5 @@
 # 🌟 SoulTracker: Gamified Mental Health Journaling App
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://soul-tracker-demo.vercel.app/)
 
 ![SoulTracker Banner](1200x250.png)  
 *Your personal companion for emotional well-being.*
